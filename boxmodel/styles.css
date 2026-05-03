@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+}
+div{
+    margin:10px;
+    border:5px yellow;
+    padding:20px;
+    background-color: black;
+}
+
+.box-one{
+    background-color:red;
+    padding:10px;
+    height:100px;
+    /*border: 30px solid purple;*/
+    /*margin:60px;*/
+    box-sizing: border-box;/*приравнивает размер всего к указанным размерам, иначе - только то что внутри*/
+}
+
+.box-two{
+    background-color:blue;
+    padding:10px;
+    height:100px;
+    width:100px;
+    border: 15px solid green;
+    margin:60px
+}

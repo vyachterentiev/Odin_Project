@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.image{
+    border:10px;
+    border-color: red;
+    padding: 50px
+}
+
+h1{
+    
+    background-color: peachpuff;
+    width : 66%;
+    margin: auto;
+    text-align: center;
+    padding: 5px
+}
+
+.recipe{
+    border:10px solid blue;
+    border-radius: 30px;
+    background-color: rgb(185, 185, 231);
+    padding:15px;
+    width:66%;
+    margin:auto
+}
